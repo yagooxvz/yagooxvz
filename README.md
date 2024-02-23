@@ -1,6 +1,6 @@
 ### Olá, me chamo Yago Souza!
 
-- 🔭 Atualmente fazendo faculdade de Gestão de TI
+- 🔭 Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas
 - 💎 Sempre em busca de mais aprendiados!
 - ⚡ Tenho 19 anos!
 <div style="display: inline_block"><br>
