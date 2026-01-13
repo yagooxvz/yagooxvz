@@ -1,7 +1,7 @@
 ### Olá, me chamo Yago Souza!
 
 - 🔭 Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- 💎 Sempre em busca de mais aprendiados!
+- 💎 Sempre em busca de mais aprendizados!
 - ⚡ Tenho 19 anos!
 <div style="display: inline_block"><br>
   <img align="center" alt="Yago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
